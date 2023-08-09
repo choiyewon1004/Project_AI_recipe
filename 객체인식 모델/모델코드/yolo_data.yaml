@@ -1,0 +1,30 @@
+names:
+- cabbage
+- carrot
+- chicken
+- cucumber
+- egg
+- garlic
+- mushroom
+- onion
+- potato
+- zucchini
+- fish
+- ham
+- meat
+- powder
+- tofu
+- chili
+- kimchi
+- pimento
+- tomato
+nc: 19
+roboflow:
+  license: CC BY 4.0
+  project: ingredient-j9nuw
+  url: https://universe.roboflow.com/kts-lsbcs/ingredient-j9nuw/dataset/1
+  version: 1
+  workspace: kts-lsbcs
+test: /content/datasets/dataset/test/images
+train: /content/datasets/dataset/train/images
+val: /content/datasets/dataset/valid/images
